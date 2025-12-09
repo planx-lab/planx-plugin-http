@@ -1,0 +1,5 @@
+name: http
+version: 0.1.0
+type: sink
+executable: plugin
+description: HTTP sink plugin for Planx - sends batches to HTTP endpoints
